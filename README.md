@@ -7,7 +7,7 @@
 
 ## 커리큘럼
 |주차|주제|설명|
-|:---:|:---:|:---:|
+|:---:|:---:|:---|
 |1주차|기본 개념|파이토치, 회귀분석|
 |2주차|딥러닝 기본|퍼셉트론, 출력층 함수, loss function, 경사하강법, 역전파|
 |3주차|딥러닝 학습|optimizer, activation function, normalization, initialization, drop out, 신경망 만들기|
